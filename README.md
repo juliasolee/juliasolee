@@ -6,7 +6,7 @@ I'm a Software engineer from Barcelona :sunny: who loves building Virtual Realit
 
 🌱 Continuous AI learning
 
-📫 Reach me: linkedin.com/in/juliasole/
+📫 Reach me: [linkedin.com/in/juliasole/](https://www.linkedin.com/in/juliasole/)
 
 
 <!--
