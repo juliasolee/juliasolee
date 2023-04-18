@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Data engineer from Barcelona :sunny: living in Amsterdam 🚲:. 
+I'm a Data engineer from Barcelona :sunny: living in Amsterdam 🚲 
 
 🔭 [Here](https://github.com/juliasolee/MyWork) you can find some of my old projects and get to know me a little.
 
