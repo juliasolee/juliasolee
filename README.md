@@ -2,10 +2,6 @@
 
 I'm a Data engineer from Barcelona :sunny: living in Amsterdam 🚲 
 
-🔭 [Here](https://github.com/juliasolee/MyWork) you can find some of my old projects and get to know me a little.
-
-🌱 Continuous AI learning
-
 📫 Reach me: [linkedin.com/in/juliasole/](https://www.linkedin.com/in/juliasole/)
 
 
